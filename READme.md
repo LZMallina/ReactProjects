@@ -1,0 +1,1 @@
+# This folder contains projects written with React.js, Redux etc
