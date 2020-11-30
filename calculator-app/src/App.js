@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import symbolKeys from './symbolKeys.js'
+
 
 function App() {
 
